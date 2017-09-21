@@ -276,6 +276,10 @@ msgstr ""
 msgid "PloneMeeting_label_proposingGroupWithGroupInCharge"
 msgstr ""
 
+#. Default: "Group in charge"
+msgid "PloneMeeting_label_groupInCharge"
+msgstr ""
+
 #. Default: "Associated group(s)"
 msgid "PloneMeeting_label_associatedGroups"
 msgstr ""
@@ -3838,6 +3842,10 @@ msgstr ""
 
 #. Default: "Show / hide persons"
 msgid "show_or_hide_persons"
+msgstr ""
+
+#. Default: "Show / hide poll type observations"
+msgid "show_or_hide_pollTypeObservations"
 msgstr ""
 
 # This way, the "typedescription macro in base_edit does not display 'Meeting' above the title.

@@ -764,6 +764,10 @@ msgstr "Name des Technischen Administrators"
 msgid "PloneMeeting_label_gender"
 msgstr "Geschlecht"
 
+#. Default: "Group in charge"
+msgid "PloneMeeting_label_groupInCharge"
+msgstr ""
+
 #. Default: "Group certified signatures"
 msgid "PloneMeeting_label_group_certifiedSignatures"
 msgstr ""
@@ -4761,6 +4765,10 @@ msgstr "Anzeigen / Verstecken von Details"
 
 #. Default: "Show / hide persons"
 msgid "show_or_hide_persons"
+msgstr ""
+
+#. Default: "Show / hide poll type observations"
+msgid "show_or_hide_pollTypeObservations"
 msgstr ""
 
 #. Default: "A signatory can not be in the absents list."

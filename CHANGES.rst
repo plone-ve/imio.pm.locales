@@ -5,6 +5,9 @@ Changelog
 4.1.4 (unreleased)
 ------------------
 
+- Updated Spanish translations
+  [lcaballero, macagua]
+
 - Added added translation for MeetingItem.validate_groupsInCharge error message.
 
 4.1.3 (2019-11-19)

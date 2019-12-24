@@ -4037,10 +4037,6 @@ msgstr ""
 msgid "sendto_inexistent_destfolder_error"
 msgstr ""
 
-#. Default: "Create an element of this type"
-msgid "label_create_an_element"
-msgstr ""
-
 #. Default: "The element has been activated."
 msgid "activate_done_descr"
 msgstr ""

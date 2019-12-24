@@ -4317,10 +4317,6 @@ msgstr ""
 msgid "first_transition_must_leave_wf_initial_state"
 msgstr ""
 
-#. Default: "Please respect order of transitions sequence to present an item, the first given transition is not a transition leaving the item workflow initial state."
-msgid "first_transition_must_leave_wf_initial_state"
-msgstr ""
-
 #. Default: "Please respect order of transitions sequence to present an item, the given sequence of transitions is wrong."
 msgid "given_wf_path_does_not_lead_to_present"
 msgstr ""

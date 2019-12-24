@@ -1,11 +1,11 @@
-# translation of PloneMeeting-plone.po to Spanish
+# translation of plone.po to Spanish
 # Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2009 - 2019.
 # Spanish translation team <plone-conosur@lists.plone.org>
 msgid ""
 msgstr ""
 "Project-Id-Version: PloneMeeting\n"
 "POT-Creation-Date: 2005-05-17 15:00-100\n"
-"PO-Revision-Date: 2019-12-18 22:31-0400\n"
+"PO-Revision-Date: 2019-12-24 04:56-0400\n"
 "Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
 "Language-Team: ES <LL@li.org>\n"
 "Language: es\n"
@@ -22,7 +22,7 @@ msgstr ""
 
 #. Default: "Add recurring item"
 msgid "Add recurring item"
-msgstr "Agregar tema recurrente"
+msgstr "Añadir tema recurrente"
 
 #. Default: "Advice Given"
 msgid "Advice Given"
@@ -34,7 +34,7 @@ msgstr "Consejo bajo edición"
 
 #. Default: "Annex correctly added."
 msgid "Annex correctly added."
-msgstr "Anexo correctamente agregado."
+msgstr "Anexo correctamente añadido."
 
 #. Default: "Annex decision"
 msgid "Annex decision"
@@ -108,7 +108,7 @@ msgstr "Categorías de reunión"
 
 #. Default: "Concertation assembly"
 msgid "MeetingConcertation"
-msgstr "Sesión"
+msgstr "Reunión"
 
 # Portal type names
 #. Default: "Meeting configuration"
@@ -189,7 +189,7 @@ msgstr "Miembro de Reunión"
 
 #. Default: "Negociation assembly"
 msgid "MeetingNegociation"
-msgstr "Sesión"
+msgstr "Reunión"
 
 #. Default: "Meeting Observer Global"
 msgid "MeetingObserverGlobal"
@@ -221,7 +221,7 @@ msgstr "Características de Usuario"
 
 #. Default: "Advice Committee assembly"
 msgid "Meetingadvice-committee"
-msgstr "Sesión"
+msgstr "Reunión"
 
 #. Default: "No meeting to delete."
 msgid "No meeting to delete."
@@ -270,7 +270,7 @@ msgstr "Flujo de trabajo para las Reuniones de una Asamblea."
 
 #. Default: "Workflow for advices into a meeting."
 msgid "Workflow for advices into a meeting."
-msgstr "Flujo de trabajo para Consejos dentro de una Reunión."
+msgstr "Flujo de trabajo para consejos dentro de una reunión."
 
 #. Default: "Workflow for every meeting items of tool PloneMeeting."
 msgid "Workflow for every meeting items of tool PloneMeeting."
@@ -299,11 +299,11 @@ msgstr "Aceptar con modificaciones"
 
 #. Default: "Accept out of meeting"
 msgid "accept_out_of_meeting"
-msgstr "Aceptar fuera de sesión"
+msgstr "Aceptar fuera de reunión"
 
 #. Default: "Accept out of meeting (Emergency)"
 msgid "accept_out_of_meeting_emergency"
-msgstr "Aceptar fuera de sesión (Emergencia)"
+msgstr "Aceptar fuera de reunión (Emergencia)"
 
 #. Default: "Accepted"
 msgid "accepted"
@@ -315,11 +315,11 @@ msgstr "Aceptado con modificaciones"
 
 #. Default: "Accepted out of meeting"
 msgid "accepted_out_of_meeting"
-msgstr "Aceptado fuera de sesión"
+msgstr "Aceptado fuera de reunión"
 
 #. Default: "Accepted out of meeting (Emergency)"
 msgid "accepted_out_of_meeting_emergency"
-msgstr "Aceptado fuera de sesión (Emergencia)"
+msgstr "Aceptado fuera de reunión (Emergencia)"
 
 #. Default: "Activate"
 msgid "activate"
@@ -432,11 +432,11 @@ msgstr "Remover desde la reunión"
 
 #. Default: "Back to 'Validated'"
 msgid "backToValidatedFromAcceptedOutOfMeeting"
-msgstr "Volver a \"Validado\""
+msgstr "Volver a 'Validado'"
 
 #. Default: "Back to 'Validated'"
 msgid "backToValidatedFromAcceptedOutOfMeetingEmergency"
-msgstr "Volver a \"Validado\""
+msgstr "Volver a 'Validado'"
 
 #. Default: "Back to 'Item created'"
 msgid "backTo_itemcreated_from_waiting_advices"
@@ -452,7 +452,7 @@ msgstr "Volver a 'Propuesto'"
 
 #. Default: "Back to proposing group from prevalidated"
 msgid "backTo_returned_to_proposing_group_from_returned_to_proposing_group_prevalidated"
-msgstr "Volver a \"Para ser corregido\""
+msgstr "Volver a 'Para ser corregido'"
 
 #. Default: "Back to proposing group from proposed"
 msgid "backTo_returned_to_proposing_group_from_returned_to_proposing_group_proposed"
@@ -491,9 +491,9 @@ msgstr ""
 msgid "can_not_delete_meetingconfig_annex_types"
 msgstr ""
 "¡Esta configuración no se puede eliminar, los tipos de anexos de esta "
-"configuración se indican en el campo \"Correspondencias al enviar a otro "
-"tipo de sesión\" de al menos otra configuración de sesión, por favor, "
-"verifique aquí ${other_config_title}!"
+"configuración se indican en el campo 'Correspondencias al enviar a otro tipo "
+"de reunión' de al menos otra configuración de reunión, por favor, verifique "
+"aquí ${other_config_title}!"
 
 #. Default: "This configuration can not be deleted, at least one meeting linked to this configuration exists!"
 msgid "can_not_delete_meetingconfig_meeting"
@@ -505,7 +505,7 @@ msgstr ""
 msgid "can_not_delete_meetingconfig_meetingconfig"
 msgstr ""
 "¡Esta configuración no se puede eliminar, se rellena al menos en otra "
-"configuración de sesión, por favor, verifique aquí ${other_config_title}!"
+"configuración de reunión, por favor, verifique aquí ${other_config_title}!"
 
 #. Default: "This configuration can not be deleted, at least one member folder designed to store PloneMeeting objects is not empty!"
 msgid "can_not_delete_meetingconfig_meetingfolder"
@@ -531,7 +531,7 @@ msgstr "¡Usted no puede eliminar este elemento!"
 msgid "can_not_delete_organization_config_meetingitem"
 msgstr ""
 "¡Esta organización no se puede eliminar, se hace referencia en un tema de "
-"una configuración de sesión, por favor, verifique aquí: ${item_url}!"
+"una configuración de reunión, por favor, verifique aquí: ${item_url}!"
 
 #. Default: "This organization can not be deleted, it is used as group in charge of organization ${org_url}!"
 msgid "can_not_delete_organization_groupincharge"
@@ -549,8 +549,8 @@ msgstr ""
 msgid "can_not_delete_organization_meetingconfig"
 msgstr ""
 "¡Esta organización no se puede eliminar, se hace referencia en al menos una "
-"configuración de sesión. Consulte las pestañas [Avisos y acceso] para las "
-"diferentes configuraciones de sesión, (por favor, verifique aquí: "
+"configuración de reunión. Consulte las pestañas [Consejos y acceso] para las "
+"diferentes configuraciones de reunión, (por favor, verifique aquí: "
 "${cfg_url})!"
 
 #. Default: "This organization can not be deleted, it is linked to one existing item at least, check ${item_url}!"
@@ -588,15 +588,15 @@ msgstr "Confirmado"
 
 #. Default: "Item created from an item accepted out of meeting."
 msgid "create_from_accepted_out_of_meeting"
-msgstr "Crear desde un tema aceptado fuera de la sesión."
+msgstr "Crear desde un tema aceptado fuera de la reunión."
 
 #. Default: "Item created from an item accepted out of meeting (emergency)."
 msgid "create_from_accepted_out_of_meeting_emergency"
-msgstr "Crear desde un tema aceptado fuera de la sesión (emergencia)."
+msgstr "Crear desde un tema aceptado fuera de la reunión (emergencia)."
 
 #. Default: "Create from item postponed to next meeting"
 msgid "create_from_postponed_next_meeting"
-msgstr "Creado desde elemento pospuesto a la próxima reunión"
+msgstr "Creado desde tema pospuesto a la próxima reunión"
 
 #. Default: "Create from delayed item"
 msgid "create_from_predecessor"
@@ -779,7 +779,9 @@ msgstr "Meta-dato"
 
 #. Default: "PloneMeeting view redirecting to the application when logged in"
 msgid "plonemeeting_redirect_to_app_view"
-msgstr "Vista PloneMeeting que direcciona a la aplicación cuando esta iniciado sesión"
+msgstr ""
+"Vista PloneMeeting que direcciona a la aplicación cuando esta iniciado "
+"sesión de usuario"
 
 #. Default: "Postpone for next meeting"
 msgid "postpone_next_meeting"

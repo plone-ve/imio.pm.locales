@@ -3997,10 +3997,6 @@ msgstr ""
 msgid "AnnexesDecisionShort"
 msgstr ""
 
-#. Default: "Show / hide details"
-msgid "show_or_hide_details"
-msgstr ""
-
 #. Default: "Copy PloneMeeting"
 msgid "Copy PloneMeeting"
 msgstr ""

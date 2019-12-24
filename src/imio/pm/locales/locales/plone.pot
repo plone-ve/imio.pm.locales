@@ -776,10 +776,6 @@ msgstr ""
 msgid "PloneMeeting Activity Workflow"
 msgstr ""
 
-#. Default: "This allows to active the tool PloneMeeting."
-msgid "This allows to active the tool PloneMeeting."
-msgstr ""
-
 #. Default: "Meeting Item Workflow"
 msgid "Meeting Item Workflow"
 msgstr ""

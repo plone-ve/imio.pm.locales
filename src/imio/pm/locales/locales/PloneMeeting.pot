@@ -4009,10 +4009,6 @@ msgstr ""
 msgid "label_schema_pm_search"
 msgstr ""
 
-#. Default: "To do"
-msgid "To do"
-msgstr ""
-
 #. Default: "This item is an oral question"
 msgid "this_item_is_an_oral_question"
 msgstr ""

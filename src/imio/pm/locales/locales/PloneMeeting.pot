@@ -5590,10 +5590,6 @@ msgstr ""
 msgid "Attendee has been set ${not_present_type}."
 msgstr ""
 
-#. Default: "Attendee has been set ${not_present_type}."
-msgid "Attendee has been set ${not_present_type}."
-msgstr ""
-
 #. Default: "Not present type"
 msgid "Not present type"
 msgstr ""

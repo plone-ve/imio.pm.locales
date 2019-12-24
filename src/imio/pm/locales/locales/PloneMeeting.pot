@@ -284,10 +284,6 @@ msgstr ""
 msgid "PloneMeeting_label_proposingGroup"
 msgstr ""
 
-#. Default: "Proposing group"
-msgid "PloneMeeting_label_proposingGroup"
-msgstr ""
-
 #. Default: "Proposing group (Group in charge)"
 msgid "PloneMeeting_label_proposingGroupWithGroupInCharge"
 msgstr ""
